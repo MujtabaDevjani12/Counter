@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Google+Sans+Flex:opsz,wght@6..144,1..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Stack+Sans+Headline:wght@200..700&family=Titan+One&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: #f1f0ef;
+}
+
+.Heading {
+    text-align: center;
+    margin: 10px 0px;
+    font-family: "Poppins", sans-serif;
+    font-size: 70px;
+}
+
+.input {
+    margin: 20px 0px;
+    height: 127px;
+    width: 149px;
+    border: none;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-size: 70px;
+    outline: none;
+    padding: 0px 85px;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 10px 10px;
+    border-radius: 10px;
+}
+
+.container {
+    display: block;
+    margin: auto;
+    width: 21rem;
+    padding: 10px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0px;
+}
